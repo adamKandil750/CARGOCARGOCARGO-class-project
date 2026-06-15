@@ -1,0 +1,31 @@
+CARGO CARGO CARGO Manual
+
+-- INTRODUCTION --
+Welcome to CARGO CARGO CARGO! This prototype tasks you with reaching the end of a level in your little truck,
+with the aim of delivering your packages. You're given 100 seconds to do so, and you're scored at the end of a
+level based on how fast you were able to make it to the finish. To help you out, there are multiple Extensions
+to choose from that change the attributes of your truck, but there's a catch. Each Extension will incur a
+penalty on your final score, meaning the more Extensions you equip, the more drastic the score reduction will be.
+So, you'll have to weigh which Extensions you can and can't take with you, in pursuit of getting the best
+score possible. Good luck!
+
+-- CONTROLS --
+Below are the controls for this game. Some controls are only accessible when certain Extensions are equipped,
+which will be indicated.
+
+MOVE FORWARD/BACKWARD - [W][A]
+TURN RIGHT/LEFT - [S][D]
+JUMP (Only accessible with Jump Extension) - [SPACEBAR]
+BOOST (Only accessible with Boost Extension) - [E]
+
+-- EXTENSIONS --
+Below is a brief overview of every single Extension in the game.
+
+Precision Control Extension - Sharpens the control of your truck so it isn't as slippery to manuever.
+Armored Front Extension - Adds an armored front plate onto your truck that can bash away obstacles.
+Speed Extension - Increases the base speed of your truck.
+Boost Extension - Enables the ability to perform a boost with your truck.
+Jump Extension - Enables the ability to perform a jump with your truck.
+Bounce Extension - Makes your truck bounce against walls.
+Invisible Extension - A special extension! This one turns your truck entirely invisible. This is the only
+extension that awards to your score instead of taking away from it.

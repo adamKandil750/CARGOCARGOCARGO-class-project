@@ -12,11 +12,14 @@ EditorBuildSettings:
     path: Assets/Scenes/Truck Extension Selection Menu.unity
     guid: d8e105bc102ebb4478ed027fc0c50867
   - enabled: 1
-    path: Assets/Scenes/Debug Level (Template).unity
-    guid: 8fae2b045cd86b14ea295902ac25ef85
+    path: Assets/Scenes/Level 1.unity
+    guid: a945f13315f2209448e416a73e7be8a8
   - enabled: 1
     path: Assets/Scenes/Level 2.unity
     guid: 3db727b205dc1be41b066f840f348d57
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: a682519299458f742bcf4f18c324c2eb
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0

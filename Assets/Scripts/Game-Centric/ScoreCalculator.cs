@@ -40,10 +40,10 @@ public class ScoreCalculator : MonoBehaviour
         scoreDeductionFromExtensions *= 1.25f;
 
         // Calculation of base score, from time remaining
-        baseScoreFromRemainingTime *= 2.0f;
+        baseScoreFromRemainingTime *= 6.5f;
 
         // Final calculation of score
-        score = baseScoreFromRemainingTime + scoreDeductionFromExtensions;
+        score = baseScoreFromRemainingTime - scoreDeductionFromExtensions;
 
         return score;
     }
